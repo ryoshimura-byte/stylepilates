@@ -15,6 +15,8 @@ description: マーケティング部。新規集客（広告・SNS・体験レ�
 ## 責任範囲
 
 - 新規集客：Web広告、SNS（Instagram / LINE）、Googleビジネスプロフィール、紹介制度
+  - Instagram の運用は [docs/marketing/instagram.md](../../docs/marketing/instagram.md) のルールに従う
+    （フィード＝新規集客／ストーリーズ＝継続・解約防止の2本立て。「完全個室」は必ず文字で書く）
 - 体験レッスンの設計と、体験→入会の転換率改善
 - 会員の継続支援：休眠会員の掘り起こし、解約理由の収集と対策
 - キャンペーンの企画・実行・効果測定

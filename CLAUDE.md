@@ -9,6 +9,7 @@ Style Pilates の経営組織リポジトリです。経理・財務・マーケ
 .claude/agents/     部署のエージェント定義（keiei / keiri / zaimu / marketing）
 docs/org/           各部署の詳細な業務ドキュメント
 docs/kpi/           全社共通のKPI定義集
+docs/marketing/     Instagram 等、マーケティング施策の運用ルール
 docs/templates/     月次決算・経営会議・月次レポート・年間予算のテンプレート
 ```
 
